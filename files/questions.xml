@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions>
+    <question>
+        <id>SZAMLAEGYENLEG</id>
+        <question>Mennyi a számlám egyenlege?</question>
+    </question>
+    <question>
+        <id>SZAMLEKERDEZES</id>
+        <question>Mi a telefonszámom?</question>
+    </question>
+    <question>
+        <id>SZOLGALTATASLEKERDEZES</id>
+        <question>Milyen szolgáltatásaim vannak?</question>
+    </question>
+</questions>
